@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**afzaale01/afzaale01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Muhammad Afzaal** is a ✨ Solution Architect for Games and Experiences ✨.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+
+- 🔭 I’m currently working on Gen AI 
+- 🌱 I’m currently learning Google Cloud PLatform
+- 👯 I’m looking to collaborate on Metaverse Products and Systems
+- 🤔 I’m looking for help with Dialog Flow CX and Agent Builder.
+- 💬 Ask me about Games, multiplayer games, system design for games, enterprise approaches for web3 products
+- 📫 How to reach me: muhammadafzaalg@hotmail.com
+<--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--/>
